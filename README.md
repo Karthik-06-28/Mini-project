@@ -1,8 +1,23 @@
-# Mini-project
+# Financial Overview and Retirement Calculation Tool
 
-# Financial Overview and Retirement Calculation Tool<br>
+A Python-based GUI application that helps users estimate retirement savings, calculate projected retirement income, and visualize financial growth based on income, investment type, and monthly contributions.
 
-This tool helps you plan your financial future by calculating<br>
-1.Projected retirement savings<br>
-2.Expected monthly retirement income<br>
-3.The impact of additional contributions<br>
+## Features
+
+* Retirement savings calculator
+* Monthly retirement income estimation
+* Multiple investment options (FD, PPF, Mutual Funds, Gold, etc.)
+* Financial overview and contribution comparison graphs
+* Save and load financial details
+* User-friendly Tkinter interface
+
+## Tech Stack
+
+Python, Tkinter, Matplotlib
+
+## Run
+
+```bash
+pip install matplotlib
+python project.py
+```
